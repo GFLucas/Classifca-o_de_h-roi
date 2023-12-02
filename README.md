@@ -1,4 +1,4 @@
-# Classifcaao_de_heroi
+# Classifcao_de_heroi
 Pequeno projeto que classifica o xp do herói.
 
 ## Objetivo
